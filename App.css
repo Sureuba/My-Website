@@ -18,13 +18,13 @@ body{
 .uiverse {
   --duration: 7s;
   --easing: linear;
-  --c-color-1: #e3ebea;
-  --c-color-2: #792b22;
+  --c-color-1: #792b22;
+  --c-color-2: #131d5c;
   --c-color-3: #455985;
-  --c-color-4: #2c3954;
-  --c-shadow: #9ca0b3;
+  --c-color-4: #ba392a;
+  --c-shadow: #ba6b62;
   --c-shadow-inset-top: #781e13;
-  --c-shadow-inset-bottom: #131d5c;
+  --c-shadow-inset-bottom: #e3ebea;
   --c-radial-inner: #792218;
   --c-radial-outer: #ba392a;
   --c-color: #fff;
