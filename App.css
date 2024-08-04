@@ -11,7 +11,6 @@ h1{
 body{
     background-color: #e3ebea;
     text-align: center;
-
 }
 
 
@@ -19,7 +18,7 @@ body{
 .uiverse {
   --duration: 7s;
   --easing: linear;
-  --c-color-1: rgba(255, 163, 26, .7);
+  --c-color-1:  #792b22;
   --c-color-2: #1a23ff;
   --c-color-3: #e21bda;
   --c-color-4: rgba(255, 232, 26, .7);
