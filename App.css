@@ -18,8 +18,8 @@ body{
 .uiverse {
   --duration: 7s;
   --easing: linear;
-  --c-color-1: #792b22;
-  --c-color-2: #e3ebea;
+  --c-color-1: #e3ebea;
+  --c-color-2: #792b22;
   --c-color-3: #455985;
   --c-color-4: #ba392a;
   --c-shadow: #9ca0b3;
