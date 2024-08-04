@@ -23,11 +23,11 @@ body{
   --c-color-3: #455985;
   --c-color-4: #273682;
   --c-shadow: #9ca0b3;
-  --c-shadow-inset-top: #ba392a;
-  --c-shadow-inset-bottom: #781e13;
+  --c-shadow-inset-top: #455985;
+  --c-shadow-inset-bottom: #273682;
   --c-radial-inner: #ba392a;
   --c-radial-outer: #792218;
-  --c-color: #010101;
+  --c-color: #ffffff;
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: none;
   outline: none;
