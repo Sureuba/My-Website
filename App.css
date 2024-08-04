@@ -19,12 +19,12 @@ body{
   --duration: 7s;
   --easing: linear;
   --c-color-1: #792b22;
-  --c-color-2: #131d5c;
+  --c-color-2: #e3ebea;
   --c-color-3: #455985;
   --c-color-4: #ba392a;
   --c-shadow: #9ca0b3;
   --c-shadow-inset-top: #781e13;
-  --c-shadow-inset-bottom: #e3ebea;
+  --c-shadow-inset-bottom: #131d5c;
   --c-radial-inner: #792218;
   --c-radial-outer: #ba392a;
   --c-color: #fff;
