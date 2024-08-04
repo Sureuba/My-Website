@@ -18,15 +18,15 @@ body{
 .uiverse {
   --duration: 7s;
   --easing: linear;
-  --c-color-1: #792b22;
-  --c-color-2: #131d5c;
+  --c-color-1: #131d5c;
+  --c-color-2: #e3ebea;
   --c-color-3: #455985;
-  --c-color-4: #ba392a;
-  --c-shadow: #ba6b62;
-  --c-shadow-inset-top: #781e13;
-  --c-shadow-inset-bottom: #ba392a;
-  --c-radial-inner: #792218;
-  --c-radial-outer: #ba392a;
+  --c-color-4: #273682;
+  --c-shadow: #9ca0b3;
+  --c-shadow-inset-top: #ba392a;
+  --c-shadow-inset-bottom: #781e13;
+  --c-radial-inner: #ba392a;
+  --c-radial-outer: #792218;
   --c-color: #fff;
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: none;
