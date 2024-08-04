@@ -247,7 +247,7 @@
       "yocto-queue": "^0.1.0"
     },
     "scripts": {
-        "build": "npx tailwindcss -i ./App.css -o ./src/output.css --watch"
+        "build": "npx tailwindcss -i ./App.css -o ./output.css --watch"
     },
     "keywords": [],
     "author": "",
