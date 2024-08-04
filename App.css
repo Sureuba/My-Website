@@ -27,7 +27,7 @@ body{
   --c-shadow-inset-bottom: #131d5c;
   --c-radial-inner: #792218;
   --c-radial-outer: #ba392a;
-  --c-color: #455985;
+  --c-color: #fff;
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: none;
   outline: none;
